@@ -1,6 +1,8 @@
 {
     "compilerOptions": {
+        "module": "commonjs",
         "noImplicitAny": true,
+        "allowSyntheticDefaultImports": true,
         "target": "es2015"
     },
     "exclude": [

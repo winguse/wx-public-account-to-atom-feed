@@ -24,5 +24,8 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-typescript": "^2.13.6"
+  },
+  "dependencies": {
+    "node-fetch": "^1.5.3"
   }
 }
