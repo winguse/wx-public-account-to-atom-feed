@@ -1,1 +1,1 @@
-console.log('init commit');
+console.log('init commit' + __dirname);
