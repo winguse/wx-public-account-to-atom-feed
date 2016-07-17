@@ -2,5 +2,5 @@
 {
     "editor.insertSpaces": false,
     "editor.renderWhitespace": true,
-    "editor.wrappingColumn": 0,
+    "editor.wrappingColumn": 0
 }

@@ -3,7 +3,9 @@
         "module": "commonjs",
         "noImplicitAny": true,
         "allowSyntheticDefaultImports": true,
-        "target": "es2015"
+        "sourceMap": true,
+        "target": "es2015",
+        "outDir": "dist"
     },
     "exclude": [
         "node_modules"

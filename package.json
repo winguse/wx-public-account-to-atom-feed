@@ -26,6 +26,7 @@
     "gulp-typescript": "^2.13.6"
   },
   "dependencies": {
+    "cheerio": "^0.20.0",
     "node-fetch": "^1.5.3"
   }
 }
