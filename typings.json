@@ -1,6 +1,7 @@
 {
   "globalDependencies": {
     "cheerio": "registry:dt/cheerio#0.17.0+20160407085313",
+    "html-entities": "registry:dt/html-entities#1.2.0+20160412134357",
     "node": "registry:dt/node#6.0.0+20160709114037",
     "node-fetch": "registry:dt/node-fetch#0.0.0+20160711094047"
   }
